@@ -4,3 +4,4 @@ pandas
 torch[gpu]
 matplotlib
 seaborn
+scikit-learn
