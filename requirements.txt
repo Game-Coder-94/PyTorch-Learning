@@ -1,0 +1,6 @@
+kagglehub
+kagglehub[pandas-datasets]
+pandas
+torch[gpu]
+matplotlib
+seaborn
